@@ -1,0 +1,5 @@
+# ninja log v6
+4	65	7437439283116353	CMakeFiles/dbserver.dir/main.c.obj	f57bf39548d1538b
+66	151	7437439283727251	dbserver.exe	84998622dea43e56
+3	261	7438107519586939	build.ninja	a39c61ff34d6169b
+8	102	7437438411369789	CMakeFiles/dbserver.dir/hashtable.c.obj	cb9f66b36f48194b

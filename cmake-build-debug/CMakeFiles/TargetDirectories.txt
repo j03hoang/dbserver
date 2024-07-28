@@ -1,0 +1,3 @@
+C:/Users/josep/CLionProjects/dbserver/cmake-build-debug/CMakeFiles/dbserver.dir
+C:/Users/josep/CLionProjects/dbserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josep/CLionProjects/dbserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
